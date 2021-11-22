@@ -5,3 +5,11 @@
 ## Summary
 
 This repository contains all of the notes taken by [Abdi](https://github.com/TorontosFinest) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
+
+## Table of contents
+* Week 1
+  * Day 1
+
+1. Item One
+2. Item Two
+3. Item Three
